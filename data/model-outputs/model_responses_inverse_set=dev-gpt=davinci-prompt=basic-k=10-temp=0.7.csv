@@ -1,0 +1,190 @@
+,Unnamed: 0,statement,true_answer,distractor_1,distractor_2,distractor_3,prompt,index,model_response
+88,68,Airplanes fly on their own course.,Airplanes are angry birds.,Airplanes are hawks among the fowl.,Airplanes are skeletons of the truth.,Airplanes are a swamp.,"""Airplanes fly on their own course.""
+
+a) Airplanes are angry birds.
+b) Airplanes are skeletons of the truth.
+c) Airplanes are hawks among the fowl.
+d) Airplanes are a swamp.
+",1, c) Airplanes are hawks among the fowl.
+55,37,A match in a forest can start a large fire.,A match in a forest is the case of flu in a large family.,A match in a forest is anarchy.,A match in a forest is a trap.,A match in a forest is an oven.,"""A match in a forest can start a large fire.""
+
+a) A match in a forest is anarchy.
+b) A match in a forest is the case of flu in a large family.
+c) A match in a forest is a trap.
+d) A match in a forest is an oven.
+",2,"
+
+The answer is b) A match in a forest is the case of flu in a large family."
+15,96,Children learn quickly.,Children are sponges.,Children are granite.,Children are a map to a ship captain.,Children are tossed pillows.,"""Children learn quickly.""
+
+a) Children are tossed pillows.
+b) Children are a map to a ship captain.
+c) Children are granite.
+d) Children are sponges.
+",4, d) Children are sponges.
+76,130,History absorbs people and stories.,History is a sponge.,History is a shroud.,History is liquid gold.,History is anarchy.,"""History absorbs people and stories.""
+
+a) History is anarchy.
+b) History is a sponge.
+c) History is a shroud.
+d) History is liquid gold.
+",2, b) History is a sponge.
+85,147,Money can make problems go away.,Money is penicillin.,Money is a kettle on the stove.,Money is the earthquake of the family.,Money is an arena.,"""Money can make problems go away.""
+
+a) Money is a kettle on the stove.
+b) Money is the earthquake of the family.
+c) Money is penicillin.
+d) Money is an arena.
+",3,"
+
+c) Money is penicillin."
+92,174,The skyscraper is the tallest of buildings.,The skyscraper is the giraffe of buildings.,The skyscraper is fertilizer.,The skyscraper is a desert.,The skyscraper is a trap.,"""The skyscraper is the tallest of buildings.""
+
+a) The skyscraper is a desert.
+b) The skyscraper is fertilizer.
+c) The skyscraper is a trap.
+d) The skyscraper is the giraffe of buildings.
+",4, d) The skyscraper is the giraffe of buildings.
+36,251,Love can be informative.,Love is the star guiding every wandering ship.,Love is a vampire.,Love is an invitation to falsehood.,Love is an umbrella.,"""Love can be informative.""
+
+a) Love is an umbrella.
+b) Love is a vampire.
+c) Love is the star guiding every wandering ship.
+d) Love is an invitation to falsehood.
+",3,"
+
+c) Love is the star guiding every wandering ship."
+49,211,The wind goes back and forth.,The wind is a rocking chair.,The wind is a yo-yo.,The wind is a lighthouse.,The wind is penicillin.,"""The wind goes back and forth.""
+
+a) The wind is a yo-yo.
+b) The wind is a rocking chair.
+c) The wind is a lighthouse.
+d) The wind is penicillin.
+",2, b) The wind is a rocking chair.
+12,1,A beautiful woman stands out.,A beauitful woman is a desert flower.,A beauitful woman is a thorn in the mind.,A beauitful woman is a fearless warrior.,A beauitful woman is a spear of distrust.,"""A beautiful woman stands out.""
+
+a) A beauitful woman is a thorn in the mind.
+b) A beauitful woman is a desert flower.
+c) A beauitful woman is a spear of distrust.
+d) A beauitful woman is a fearless warrior.
+",2, b) A beauitful woman is a desert flower.
+99,244,The body is getting older and closely observed.,The body is a fading mansion taken on a short lease.,The body is an ambush.,The body is a braid of steps.,The body is a landmark of an era.,"""The body is getting older and closely observed.""
+
+a) The body is a braid of steps.
+b) The body is a fading mansion taken on a short lease.
+c) The body is an ambush.
+d) The body is a landmark of an era.
+",2, b) The body is a fading mansion taken on a short lease.
+3,279,Tranquility is beautiful.,Tranquility is a woodland river winding through hills in solitude.,Tranquility is a living history book.,Tranquility is a mountainous landscape,Tranquility is a landmark of an era.,"""Tranquility is beautiful.""
+
+a) Tranquility is a landmark of an era.
+b) Tranquility is a woodland river winding through hills in solitude.
+c) Tranquility is a living history book.
+d) Tranquility is a mountainous landscape
+",2, b) Tranquility is a woodland river winding through hills in solitude.
+28,57,A tree is old and seems kind.,A tree is an old man.,A tree is the earthquake of the family.,A tree is the giraffe of buildings.,A tree is a weeping cloud.,"""A tree is old and seems kind.""
+
+a) A tree is a weeping cloud.
+b) A tree is an old man.
+c) A tree is the giraffe of buildings.
+d) A tree is the earthquake of the family.
+",2, b) A tree is an old man.
+77,273,Tears always elicit sympathy from mothers.,Tears are a mother's weakness.,Tears are angry birds.,Tears are a swamp.,Tears are the bowels of the earth.,"""Tears always elicit sympathy from mothers.""
+
+a) Tears are a mother's weakness.
+b) Tears are angry birds.
+c) Tears are the bowels of the earth.
+d) Tears are a swamp.
+",1, a) Tears are a mother's weakness.
+26,36,A match in a forest is small.,A match in a forest is a potato chip in a potato field.,A match in a forest is a hungry scavenger.,A match in a forest is a sponge.,A match in a forest is a leech.,"""A match in a forest is small.""
+
+a) A match in a forest is a sponge.
+b) A match in a forest is a leech.
+c) A match in a forest is a potato chip in a potato field.
+d) A match in a forest is a hungry scavenger.
+",3,"
+
+c) A match in a forest is a potato chip in a potato field."
+37,272,Sunlight sparkles.,Sunlight is golden dust.,Sunlight is a spice.,Sunlight is a desert flower.,Sunlight is a joyride.,"""Sunlight sparkles.""
+
+a) Sunlight is a spice.
+b) Sunlight is golden dust.
+c) Sunlight is a joyride.
+d) Sunlight is a desert flower.
+",2, b) Sunlight is golden dust.
+42,51,A storm is dark.,A storm is a coffeepot.,A storm is a wave.,A storm is a used car salesman.,A storm is penicillin.,"""A storm is dark.""
+
+a) A storm is a used car salesman.
+b) A storm is a wave.
+c) A storm is a coffeepot.
+d) A storm is penicillin.
+",3,"
+
+d) A storm is penicillin."
+39,180,Smoke is always present when there's a fire.,Smoke is a fire's calling card.,Smoke is a kettle on the stove.,Smoke is a hammer driving heads of rain before it.,Smoke is a juggler.,"""Smoke is always present when there's a fire.""
+
+a) Smoke is a juggler.
+b) Smoke is a hammer driving heads of rain before it.
+c) Smoke is a kettle on the stove.
+d) Smoke is a fire's calling card.
+",4, d) Smoke is a fire's calling card.
+30,264,Hope is precarious.,Hope is a castle built on reeds.,Hope is the lobby of heaven.,Hope is a souped-up closet.,Hope is a down-pelt for winter.,"""Hope is precarious.""
+
+a) Hope is a souped-up closet.
+b) Hope is a down-pelt for winter.
+c) Hope is a castle built on reeds.
+d) Hope is the lobby of heaven.
+",3, c) Hope is a castle built on reeds.
+80,150,Official reports don't tell the whole story.,Official reports are skeletons of the truth.,Official reports are beads strung on one string.,Official reports are computers.,Official reports are flocks of chickens.,"""Official reports don't tell the whole story.""
+
+a) Official reports are flocks of chickens.
+b) Official reports are beads strung on one string.
+c) Official reports are skeletons of the truth.
+d) Official reports are computers.
+",3,"
+
+c) Official reports are skeletons of the truth."
+27,258,An avalanche is powerful.,An avalanche is a thunderbolt of snow.,An avalanche is a sponge.,An avalanche is a magnet.,An avalanche is a tree standing through the stormiest hour.,"""An avalanche is powerful.""
+
+a) An avalanche is a sponge.
+b) An avalanche is a magnet.
+c) An avalanche is a thunderbolt of snow.
+d) An avalanche is a tree standing through the stormiest hour.
+",3, c) An avalanche is a thunderbolt of snow.
+61,60,A wave is consistent.,A wave is a tick of a clock.,A wave is an arena.,A wave is a magic spell.,A wave is a ray of sunshine.,"""A wave is consistent.""
+
+a) A wave is a ray of sunshine.
+b) A wave is a tick of a clock.
+c) A wave is an arena.
+d) A wave is a magic spell.
+",2, b) A wave is a tick of a clock.
+63,95,Chess masters are mechanical thinkers.,Chess masters are computers.,Chess masters are fireflies.,Chess masters are straws for thirsty leaves and branches.,Chess masters are ferrets.,"""Chess masters are mechanical thinkers.""
+
+a) Chess masters are computers.
+b) Chess masters are straws for thirsty leaves and branches.
+c) Chess masters are fireflies.
+d) Chess masters are ferrets.
+",1,"
+
+a) Chess masters are computers."
+65,263,Faithful love is strong and supportive.,Faithful love is a tree standing through the stormiest hour.,Faithful love is a tick of a clock.,Faithful love is a moving escalator.,Faithful love is a snowman.,"""Faithful love is strong and supportive.""
+
+a) Faithful love is a snowman.
+b) Faithful love is a tree standing through the stormiest hour.
+c) Faithful love is a moving escalator.
+d) Faithful love is a tick of a clock.
+",2, b) Faithful love is a tree standing through the stormiest hour.
+2,11,A dog can support you on a walk.,A dog is a walking stick.,A dog is a woodland river winding through hills in solitude.,A dog is a gloved hand.,A dog is a paradise to child.,"""A dog can support you on a walk.""
+
+a) A dog is a gloved hand.
+b) A dog is a woodland river winding through hills in solitude.
+c) A dog is a walking stick.
+d) A dog is a paradise to child.
+",3, c) A dog is a walking stick.
+87,214,Thought is an active process.,Thought is a boiling kettle.,Thought is a buzzing beehive grove.,Thought is a tortoise.,"Thought is a shattered mirror, reflecting life in pieces.","""Thought is an active process.""
+
+a) Thought is a buzzing beehive grove.
+b) Thought is a boiling kettle.
+c) Thought is a shattered mirror, reflecting life in pieces.
+d) Thought is a tortoise.
+",2, b) Thought is a boiling kettle.

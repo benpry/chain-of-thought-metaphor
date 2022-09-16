@@ -1,0 +1,85 @@
+,Unnamed: 0,statement,true_answer,distractor_1,distractor_2,distractor_3,prompt,index,model_response
+62,58,A tree can offer protection from the rain.,A tree is an umbrella.,A tree is a moving escalator.,A tree is an ambush.,A tree is an ocean.,"""A tree can offer protection from the rain.""
+
+a) A tree is an ambush.
+b) A tree is an umbrella.
+c) A tree is a moving escalator.
+d) A tree is an ocean.
+",2,"
+
+c) A tree is an umbrella."
+46,161,Power can resolve problems.,Power is penicillin.,Power is an arrow.,Power is the prisoner of thought.,Power is a labyrinth.,"""Power can resolve problems.""
+
+a) Power is a labyrinth.
+b) Power is the prisoner of thought.
+c) Power is an arrow.
+d) Power is penicillin.
+",4,"
+
+b) Power is the prisoner of thought."
+44,190,The desert is hot.,The desert is an oven.,The desert is a hugry buzzard.,The desert is a precious gem.,The desert is an ocean liner.,"""The desert is hot.""
+
+a) The desert is a hugry buzzard.
+b) The desert is an ocean liner.
+c) The desert is an oven.
+d) The desert is a precious gem.
+",3,"
+
+c) The desert is an oven."
+1,71,An accordian is has a lot of folds in it.,An accordian is a musical file-folder.,An accordian is a bottomless pit.,An accordian is a patch of crabgrass.,An accordian is a lighthouse.,"""An accordian is has a lot of folds in it.""
+
+a) An accordian is a bottomless pit.
+b) An accordian is a lighthouse.
+c) An accordian is a musical file-folder.
+d) An accordian is a patch of crabgrass.
+",3,"
+
+d) An accordian is a patch of crabgrass."
+0,191,The eager student learns quickly.,The eager student is a sponge.,The eager student is a snowstorm.,The eager student is a wild wood-dove.,The eager student is an invitation to falsehood.,"""The eager student learns quickly.""
+
+a) The eager student is an invitation to falsehood.
+b) The eager student is a snowstorm.
+c) The eager student is a sponge.
+d) The eager student is a wild wood-dove.
+",3, c) The eager student is a sponge.
+92,174,The skyscraper is the tallest of buildings.,The skyscraper is the giraffe of buildings.,The skyscraper is fertilizer.,The skyscraper is a desert.,The skyscraper is a trap.,"""The skyscraper is the tallest of buildings.""
+
+a) The skyscraper is a desert.
+b) The skyscraper is fertilizer.
+c) The skyscraper is a trap.
+d) The skyscraper is the giraffe of buildings.
+",4, c) The skyscraper is a trap.
+21,247,Clouds look soft.,Clouds are puffballs,Clouds are fjords.,Clouds are angels.,Clouds are the roots that clutch.,"""Clouds look soft.""
+
+a) Clouds are angels.
+b) Clouds are fjords.
+c) Clouds are puffballs
+d) Clouds are the roots that clutch.
+",3, c) Clouds are puffballs
+22,70,Drinking is fun but risky.,Alcohol is a joyride.,Alcohol is a rich uncle.,Alcohol is an oasis. ,Alcohol is a peacock.,"""Drinking is fun but risky.""
+
+a) Alcohol is a joyride.
+b) Alcohol is a peacock.
+c) Alcohol is an oasis. 
+d) Alcohol is a rich uncle.
+",1,"
+
+b) Alcohol is a peacock."
+18,114,Education helps to reveal reality.,Education is a lantern.,Education is a sponge.,Education is an antidote for the world's ills.,Education is an old man.,"""Education helps to reveal reality.""
+
+a) Education is a sponge.
+b) Education is a lantern.
+c) Education is an antidote for the world's ills.
+d) Education is an old man.
+",2,"
+
+c) Education is an antidote for the world's ills."
+25,63,A white rabbit's fur in winter is good camoflauge.,A white rabbit's fur in winter is a soldier's army-green uniform in a jungle.,A white rabbit's fur in winter is a hammer driving heads of rain before it.,A white rabbit's fur in winter is a winged rainbow.,A white rabbit's fur in winter is a branding iron.,"""A white rabbit's fur in winter is good camoflauge.""
+
+a) A white rabbit's fur in winter is a soldier's army-green uniform in a jungle.
+b) A white rabbit's fur in winter is a branding iron.
+c) A white rabbit's fur in winter is a winged rainbow.
+d) A white rabbit's fur in winter is a hammer driving heads of rain before it.
+",1,"
+
+a) A white rabbit's fur in winter is a soldier's army-green uniform in a jungle."
