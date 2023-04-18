@@ -77,8 +77,8 @@ def random_baseline(ratings, n_questions=100):
 
 # specify global variables
 corpus_set = "test"
-gpt_version = "curie"
-prompt_type = "similarity"
+gpt_version = "davinci"
+prompt_type = "options_only"
 task_type = "standard"  # "inverse" or "standard"
 K = 10
 temp = 0.2

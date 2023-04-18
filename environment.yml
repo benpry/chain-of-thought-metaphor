@@ -171,6 +171,4 @@ dependencies:
     - regex==2022.4.24
     - tokenizers==0.12.1
     - transformers==4.19.2
-variables:
-  OPENAI_API_KEY: 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
 prefix: /Users/ben/mambaforge/envs/chain-prag

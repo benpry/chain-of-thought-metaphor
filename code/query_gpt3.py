@@ -11,7 +11,7 @@ from prompt_generation import make_k_shot_prompt, make_rationale_prompt, make_k_
 openai.api_key = os.environ["OPENAI_API_KEY"]
 task_type = "standard"
 corpus_name = "inverse-katz" if task_type == "inverse" else "katz"
-prompt_type = "non_explanation"
+prompt_type = "options_only"
 gpt_version = "davinci"
 corpus_set = "test"
 temp = 0.2
