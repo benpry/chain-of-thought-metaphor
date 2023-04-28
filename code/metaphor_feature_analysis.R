@@ -8,11 +8,11 @@ create_dfs <- function(df.responses_basic, df.responses_rationale) {
   df.differences <- df.responses_rationale |>
     select(ID, appropriateness_score) |>
     rename(appropriateness_rationale = appropriateness_score) |>
-    left_join(df.responses_basic, on=ID) |>
+    merge(df.responses_basic, on=ID) |>
     rename(appropriateness_basic = appropriateness_score) |>
     mutate(appropriateness_diff = appropriateness_rationale - appropriateness_basic) |>
     mutate(appropriateness_rationale_norm = appropriateness_rationale - 2.5)
-  
+
   df.concatenated <- df.responses_rationale |>
     select(ID, appropriateness_score) |>
     mutate(prompt_type = "rationale") |>
@@ -28,9 +28,9 @@ create_dfs <- function(df.responses_basic, df.responses_rationale) {
 # constants
 corpus_set = "test"
 gpt_versions = c("curie", "davinci")
-prompt_types = c("basic", "non_explanation", "subject_predicate", "QUD", "similarity")
+prompt_types = c("options_only", "basic", "non_explanation", "subject_predicate", "QUD", "similarity")
 
-prompt_names <- c("basic"="No Rationale", "non_explanation"="True Non-Explanation",
+prompt_names <- c("options_only"="Options Only", "basic"="No Rationale", "non_explanation"="True Non-Explanation",
                "subject_predicate"="Subject-Object", "QUD"="QUD", "similarity"="Similarity")
 model_names <- c("curie"="Curie", "davinci"="DaVinci")
 

@@ -7,8 +7,8 @@ library(Hmisc)
 # constants
 corpus = "katz"
 corpus_set = "test"
-gpt_version = "curie"
-prompt_types = c("basic", "non_explanation", "subject_predicate", "QUD", "similarity")
+gpt_version = "davinci"
+prompt_types = c("options_only", "basic", "non_explanation", "subject_predicate", "QUD", "similarity")
 K = 10
 temp = 0.2
 
@@ -37,7 +37,7 @@ df.responses_wide <- df.all_responses |>
 cor.test(df.responses_wide$basic, df.responses_wide$non_explanation)
 
 corr_results <- df.responses_wide |>
-  select(basic, non_explanation, subject_predicate, QUD, similarity) |>
+  select(options_only, basic, non_explanation, subject_predicate, QUD, similarity) |>
   as.matrix() |>
   rcorr(type = "pearson")
 
